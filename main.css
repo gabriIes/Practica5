@@ -71,13 +71,13 @@ p {
     width: 80%;
     float: left;
     margin-top:30px;
-    column-count: 3;
+    /*column-count: 3; si lo activo sustituir por .articles article*/
 }
 
-/*.articles article{
+.articles article{
     float: left;
     width: 33%;;
-}*/
+}
 footer {
     clear: left;
     background-color: lightseagreen;
